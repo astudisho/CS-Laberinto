@@ -1,0 +1,10 @@
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\bin\Debug\PPI-Proyecto.exe.config
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\bin\Debug\PPI-Proyecto.exe
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\bin\Debug\PPI-Proyecto.pdb
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI-Proyecto.csprojResolveAssemblyReference.cache
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI_Proyecto.frmMenu.resources
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI_Proyecto.Properties.Resources.resources
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI-Proyecto.csproj.GenerateResource.Cache
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI-Proyecto.exe
+d:\users\astudillo\documents\visual studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI-Proyecto.pdb
+D:\Users\astudillo\Documents\Visual Studio 2015\Projects\PPI-Proyecto\PPI-Proyecto\obj\Debug\PPI_Proyecto.frmPartida.resources
